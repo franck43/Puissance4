@@ -1,0 +1,22 @@
+1) creez votre depot git en local
+
+2) lancer gitBash et entrer les 2 commandes suivantes : 
+ git config --global http.proxy http://proxy.univ-lyon1.fr:3128
+git config --global https.proxy https://proxy.univ-lyon1.fr:3128
+
+
+2) a partir de l'interface graphique : 
+
+Git Gui > Dépôt distant > Ajouter...
+
+    choisir un nom pour le dépôt distant,
+    indiquer l’emplacement du dépôt distant,
+    valider en cliquant sur Ajouter.
+
+3) puis : Git Gui > Dépôts distants > Pousser...*
+
+    sélectionner la branche locale contenant les commits à publier,
+    sélectionner le dépôt distant vers lequel publier,
+    valider en cliquant sur Pousser.
+
+nb :  c'est votre nom et mot de passe que vous devez entrer
