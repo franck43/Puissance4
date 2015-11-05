@@ -7,16 +7,18 @@ git config --global https.proxy https://proxy.univ-lyon1.fr:3128
 
 2) a partir de l'interface graphique : 
 
-Git Gui > Dépôt distant > Ajouter...
+Git Gui > DÃ©pÃ´t distant > Ajouter...
 
-    choisir un nom pour le dépôt distant,
-    indiquer l’emplacement du dépôt distant,
+    choisir un nom pour le dÃ©pÃ´t distant,
+    indiquer lâ€™emplacement du dÃ©pÃ´t distant,
     valider en cliquant sur Ajouter.
 
-3) puis : Git Gui > Dépôts distants > Pousser...*
+3) puis : Git Gui > DÃ©pÃ´ts distants > Pousser...*
 
-    sélectionner la branche locale contenant les commits à publier,
-    sélectionner le dépôt distant vers lequel publier,
+    sÃ©lectionner la branche locale contenant les commits Ã  publier,
+    sÃ©lectionner le dÃ©pÃ´t distant vers lequel publier,
     valider en cliquant sur Pousser.
 
 nb :  c'est votre nom et mot de passe que vous devez entrer
+
+EDIT : Test commit (Guillaume) 
