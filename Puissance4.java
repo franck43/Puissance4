@@ -5,7 +5,12 @@
 class Puissance4{
 
 
-public static 
+public static void main( String args[]){
+
+
+
+
+}
 
 
 
