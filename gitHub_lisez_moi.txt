@@ -24,3 +24,4 @@ nb :  c'est votre nom et mot de passe que vous devez entrer
 EDIT : Test commit (Guillaume) 
 EDIT : Test commit (Marvin)
 EDIT : Test commit (Manon)
+EDIT : Test commit (Arthur)
