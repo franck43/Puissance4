@@ -1,18 +1,14 @@
+// === CETTE CLASSE CORRESPOND A LA CLASSE PRINCIPALE (le main quoi) =====
+import java.util.*;
+import java.io;*;
+
+public class Puissance4 {
+
+  public static void main(String[] args){
 
 
 
 
-public class Puissance4{
+  }// Fin Main
 
-
-public static void main( String args[]){
-
-
-
-
-}
-
-
-
-
-}
+} // Fin classe Puissance4
